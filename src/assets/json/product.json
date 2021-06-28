@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "LG TV",
+    "description": "sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam.",
+    "available": false
+  },
+  {
+    "id": 2,
+    "name": "Sony TV",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S21",
+    "description": "Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Beats Studio Headphone",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui",
+    "available": false
+  },
+  {
+    "id": 5,
+    "name": "IPhone 12",
+    "description": "Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+    "available": false
+  }
+]
+
